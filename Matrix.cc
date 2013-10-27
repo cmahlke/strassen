@@ -1,10 +1,3 @@
-// File:	Matrix.cc
-//
-// Name:	Christian MAhlke
-// Date:	April 20, 2002
-// Course:	CS E-124
-// TF:		Amy Vora
-
 #include <iostream.h>
 #include <iomanip.h>
 #include <stdlib.h>
